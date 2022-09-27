@@ -1,1 +1,1 @@
-https://github.com/Sacs001/rsschool-cv/tree/gh-pages
+https://Sacs001.github.io/rsschool-cv/
