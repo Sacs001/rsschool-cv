@@ -1,1 +1,1 @@
-https:// Sacs001 E.github.io/rsschool-cv/cv
+https:// Sacs001.github.io/rsschool-cv/cv
