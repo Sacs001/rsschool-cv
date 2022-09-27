@@ -1,0 +1,45 @@
+.block1 {
+    width: 40px;
+    height: 40px;
+    background-image: #aaa;
+}
+
+.block2 {
+    width: 40px;
+    height: 40px;
+    background-color: #aaa
+}
+
+.block3 {
+    width: 40px;
+    height: 40px;
+    background-position: #000000;
+    background-position: #FF0000;
+    background-position: #00FF00;
+    background-position: #0000FF;
+    background-position: #FFFFFF;
+}
+
+.block4 {
+    width: 40px;
+    height: 40px;
+    background-repeat: #FF0000;
+}
+
+.block5 {
+    width: 40px;
+    height: 40px;
+    background: #FF0000;
+    position: relative;
+    top: 20px;
+}
+
+.father_el {
+    font-style: 2rem;
+    line-height: 20px;
+}
+
+.second_el {
+    font-style: 200%;
+    text-decoration: line-through;
+}
